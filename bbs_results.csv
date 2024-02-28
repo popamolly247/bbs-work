@@ -1,4 +1,4 @@
-﻿,ID,Age in Months,Sex,Year Group,BPVS Raw Score,BPVS Standard Score ,Matrices Raw Score,Matrices Standard Score,Graded Spelling Raw Score,PONTO Score,Reading Task Raw Score,Reading Task Trials Attempted out of 68,rs%
+﻿,ID,age,Sex,Year,BPVS.raw,BPVS.stan,Matrices.raw,Matrices.stan,spell.raw,PONTO,Reading.raw,Reading.attempted,rs%
 ,JS01,100,Male,3,132,,37,,31,254,65,68,95.58823529
 ,CL02,92,Male,3,122,,32,,14,252.6,25,31,80.64516129
 ,LH03,127,Female,6,137,,35,,32,254.4,60,65,92.30769231
